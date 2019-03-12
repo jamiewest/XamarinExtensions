@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Authors>Jamie West</Authors>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <AssemblyName>West.Extensions.Xamarin.Core</AssemblyName>
+    <PackageId>West.Extensions.Xamarin.Core</PackageId>
+    <Title>West.Extensions.Xamarin.Core</Title>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <VersionPrefix>1.0.0</VersionPrefix>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Abstractions\West.Extensions.Xamarin.Abstractions.csproj" />
+  </ItemGroup>
+</Project>

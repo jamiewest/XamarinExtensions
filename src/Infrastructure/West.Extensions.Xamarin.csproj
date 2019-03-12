@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+ <PropertyGroup>
+    <Authors>Jamie West</Authors>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <AssemblyName>West.Extensions.Xamarin</AssemblyName>
+    <PackageId>West.Extensions.Xamarin</PackageId>
+    <Title>West.Extensions.Xamarin</Title>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <VersionPrefix>1.0.0</VersionPrefix>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageTags>Xamarin;Extensions;</PackageTags>
+    <PackageReleaseNotes>Version 1.0.0</PackageReleaseNotes>
+    <PackageLicenseUrl>https://github.com/jamiewest/XamarinExtensions/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/jamiewest/XamarinExtensions</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="3.2.0.839982" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\West.Extensions.Xamarin.Core.csproj" />
+  </ItemGroup>
+
+</Project>
