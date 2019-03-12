@@ -6,9 +6,19 @@
     <AssemblyName>West.Extensions.Xamarin.Abstractions</AssemblyName>
     <PackageId>West.Extensions.Xamarin.Abstractions</PackageId>
     <Title>West.Extensions.Xamarin.Abstractions</Title>
+    <Description>Collection of helpful code for Xamarin.Forms</Description>
     <TargetFramework>netstandard2.0</TargetFramework>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <VersionPrefix>1.0.0</VersionPrefix>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageTags>Xamarin;Extensions;</PackageTags>
+    <PackageReleaseNotes>Version 1.0.0</PackageReleaseNotes>
+    <PackageLicenseUrl>https://github.com/jamiewest/XamarinExtensions/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/jamiewest/XamarinExtensions</RepositoryUrl>
   </PropertyGroup>
 
 </Project>

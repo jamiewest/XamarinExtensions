@@ -1,5 +1,5 @@
 # Xamarin Extensions
-[![Build status](https://dev.azure.com/jamiewest/XamarinHosting/_apis/build/status/XamarinHosting-CI)](https://dev.azure.com/jamiewest/XamarinHosting/_build/latest?definitionId=28)
+[![Build status](https://dev.azure.com/jamiewest/XamarinExtensions/_apis/build/status/XamarinExtensions-CI)](https://dev.azure.com/jamiewest/XamarinExtensions/_build/latest?definitionId=29)
 
 A collection of Xamarin Forms code that makes life easier. A lot of these come from the [Xamarin University](https://github.com/xamarinhq/xamu-infrastructure) samples on Github. Everything else has been borrowed from somewhere, I will happy add attribution to any file that hasn't been updated already. 
 
