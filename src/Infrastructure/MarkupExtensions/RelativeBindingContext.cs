@@ -29,7 +29,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using System.Diagnostics;
 
-namespace XamarinUniversity.Infrastructure
+namespace West.Extensions.Xamarin
 {
     /// <summary>
     /// This markup extension will locate the given element by name, grab the 

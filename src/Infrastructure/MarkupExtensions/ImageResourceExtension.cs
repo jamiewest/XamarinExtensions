@@ -29,7 +29,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using System.Reflection;
 
-namespace XamarinUniversity.Infrastructure
+namespace West.Extensions.Xamarin
 {
     /// <summary>
     /// XAML markup extension to load an image from embedded resources.
