@@ -8,7 +8,7 @@ namespace West.Extensions.Xamarin
         Task NavigateToAsync(Type destination);
         Task NavigateToAsync(Type destination, object parameter);
         Task NavigateToAsync<T>() where T : class;
-        Task NavigateToAsnc<T>(object parameter) where T : class;
+        Task NavigateToAsync<T>(object parameter) where T : class;
         Task NavigateBackAsync();
     }
 }
