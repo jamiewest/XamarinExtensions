@@ -4,6 +4,7 @@ using Xamarin.Forms;
 
 namespace West.Extensions.Xamarin
 {
+    [DesignTimeVisible(true)]
     public abstract class BaseStateAwareContentPage<TViewModel, TEnum> : BaseContentPage<TViewModel>
         where TViewModel : BaseStateAwareViewModel<TEnum>
         where TEnum : struct

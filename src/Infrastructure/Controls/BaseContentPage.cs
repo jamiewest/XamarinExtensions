@@ -1,7 +1,9 @@
+using System.ComponentModel;
 using Xamarin.Forms;
 
 namespace West.Extensions.Xamarin
 {
+    [DesignTimeVisible(true)]
     public abstract class BaseContentPage<T> : ContentPage
         where T : BaseViewModel
     {

@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
    <PropertyGroup>
     <Authors>Jamie West</Authors>
@@ -9,12 +9,12 @@
     <Description>Collection of helpful code for Xamarin.Forms</Description>
     <TargetFramework>netstandard2.0</TargetFramework>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
-    <VersionPrefix>1.0.3</VersionPrefix>
+    <VersionPrefix>1.0.4</VersionPrefix>
   </PropertyGroup>
 
   <PropertyGroup>
     <PackageTags>Xamarin;Extensions;</PackageTags>
-    <PackageReleaseNotes>Version 1.0.3</PackageReleaseNotes>
+    <PackageReleaseNotes>Version 1.0.4</PackageReleaseNotes>
     <PackageLicenseUrl>https://github.com/jamiewest/XamarinExtensions/blob/master/LICENSE</PackageLicenseUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <RepositoryType>git</RepositoryType>
